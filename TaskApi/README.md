@@ -8,7 +8,7 @@ I used Traversy Media's tutorial project and decided to quickly hack together th
 uses JSON server (A fake REST API) and I had no intent of keeping the project strictly on the frontend side, so I decided to have a little fun
 with Angular 13 and ASP.Net Core 3.1 LTS.
 
-This project is not a good one for assesing my skills as I have implemented nothing that's of highg importance in a production API project.
+This project is not a good one for assesing my skills as I have implemented nothing that's of high importance in a production API project.
 Do stay tuned for that one.
 
 ### Verdict
