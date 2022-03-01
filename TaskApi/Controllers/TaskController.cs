@@ -20,7 +20,7 @@ namespace TaskApi.Controllers
 			_context = context;
 		}
 
-		[HttpGet]
+		[HttpGet("")]
 		public async Task<ActionResult<IEnumerable<TaskModel>>> GetTasks()
 		{
 			return await _context.Tasks.AsNoTracking().ToArrayAsync();
