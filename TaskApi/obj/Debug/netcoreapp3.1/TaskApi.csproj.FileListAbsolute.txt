@@ -52,8 +52,6 @@ C:\Users\Marothi Mahlake\Documents\__Repos\ASP.Net\ASP.Net Core\Practice\API\Tas
 C:\Users\Marothi Mahlake\Documents\__Repos\ASP.Net\ASP.Net Core\Practice\API\TaskApi\TaskApi\obj\Debug\netcoreapp3.1\TaskApi.csproj.CoreCompileInputs.cache
 C:\Users\Marothi Mahlake\Documents\__Repos\ASP.Net\ASP.Net Core\Practice\API\TaskApi\TaskApi\obj\Debug\netcoreapp3.1\TaskApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Marothi Mahlake\Documents\__Repos\ASP.Net\ASP.Net Core\Practice\API\TaskApi\TaskApi\obj\Debug\netcoreapp3.1\staticwebassets\TaskApi.StaticWebAssets.Manifest.cache
-C:\Users\Marothi Mahlake\Documents\__Repos\ASP.Net\ASP.Net Core\Practice\API\TaskApi\TaskApi\obj\Debug\netcoreapp3.1\staticwebassets\TaskApi.StaticWebAssets.xml
-C:\Users\Marothi Mahlake\Documents\__Repos\ASP.Net\ASP.Net Core\Practice\API\TaskApi\TaskApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\TaskApi.styles.css
 C:\Users\Marothi Mahlake\Documents\__Repos\ASP.Net\ASP.Net Core\Practice\API\TaskApi\TaskApi\obj\Debug\netcoreapp3.1\TaskApi.RazorTargetAssemblyInfo.cache
 C:\Users\Marothi Mahlake\Documents\__Repos\ASP.Net\ASP.Net Core\Practice\API\TaskApi\TaskApi\obj\Debug\netcoreapp3.1\TaskApi.csproj.CopyComplete
 C:\Users\Marothi Mahlake\Documents\__Repos\ASP.Net\ASP.Net Core\Practice\API\TaskApi\TaskApi\obj\Debug\netcoreapp3.1\TaskApi.dll

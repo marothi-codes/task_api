@@ -9,8 +9,8 @@ using TaskApi.Models;
 
 namespace TaskApi.Controllers
 {
-	[Route("api/[controller]")]
 	[ApiController]
+	[Route("api/[controller]")]
 	public class TaskController : ControllerBase
 	{
 		private readonly TaskDbContext _context;
